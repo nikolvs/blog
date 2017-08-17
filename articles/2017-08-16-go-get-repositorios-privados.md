@@ -10,7 +10,7 @@ Até o momento não tinha visto um exemplo disso nas documentações oficiais e 
 
 Começamos a usar Go recentemente no Westwing Brasil para alguns projetos internos e a duvida voltou à tona, já que alguns de nossos pacotes não podem ser abertos pro mundo.
 
-Por padrão o `go get` usa HTTPS pra clonar pacotes, então toda vez que fizesse isso seria necessário fornecer as credenciais do servidor Git que estiver usando.
+Por padrão o `go get` usa HTTPS pra clonar pacotes, então toda vez que fizesse isso seria necessário fornecer as credenciais do servidor Git que estivesse usando.
 
 Um modo de contornar isso é forçando o Git a usar SSH, então basta configurar o seu `.gitconfig` dessa forma:
 ```
