@@ -1,3 +1,7 @@
+---
+date: 2017-08-16 21:55:11
+---
+
 # “go get” em repositórios privados
 
 Sempre que estamos aprendendo uma nova linguagem acabamos nos deparando com situações um tanto problemáticas. Uma das primeiras duvidas que me vieram a cabeça enquanto estava aprendendo Go foi como usar o `go get` em repositórios privados.
